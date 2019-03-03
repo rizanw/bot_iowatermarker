@@ -1,0 +1,15 @@
+requests >= 2.0
+future
+gunicorn 
+flask
+line-bot-sdk
+pillow
+
+certifi
+chardet
+click
+idna
+itsdangerous
+MarkupSafe
+urllib3
+Werkzeug
